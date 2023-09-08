@@ -1,0 +1,27 @@
+{
+    "name": "nihardas/basic-plugin",
+    "description": "This is a basic plugin for test",
+    "autoload": {
+        "psr-4": {
+            "Nrd\\App\\": "app/"
+        },
+        "files": [
+            "includes/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Nihar Ranjan Das",
+            "email": "niharranjandasmu@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^3.0",
+        "phpcompatibility/phpcompatibility-wp": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

@@ -1,0 +1,152 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-29 04:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: basic-plugin"
+
+#: includes/functions.php:122
+msgid "A checkbox or radio toggle to change whether the table’s date column"
+msgstr ""
+
+#: includes/functions.php:120
+msgid ""
+"A numerical input field to set the number of rows to display in a table."
+msgstr ""
+
+#: includes/functions.php:101
+msgid "Add "
+msgstr ""
+
+#: includes/functions.php:116
+msgid "Add new email"
+msgstr ""
+
+#: includes/functions.php:125
+msgid ""
+"By default, the WordPress admin email should be pre-populated as one of the "
+"emails"
+msgstr ""
+
+#: includes/functions.php:113
+msgid "Date"
+msgstr ""
+
+#: includes/functions.php:114
+msgid "Date format"
+msgstr ""
+
+#: includes/functions.php:104 app/Hooks/Handlers/MenuHandler.php:20
+#: app/Hooks/Handlers/MenuHandler.php:21 app/Hooks/Handlers/MenuHandler.php:89
+msgid "Graph"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "Hello"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/NiharRan/test-plugin/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nihardaily.com/"
+msgstr ""
+
+#: includes/functions.php:111
+msgid "Human readable format"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "ID"
+msgstr ""
+
+#: includes/functions.php:123
+msgid ""
+"It control the date in human readable format or as a Unix timestamp. Default "
+"to human readable on install."
+msgstr ""
+
+#: includes/functions.php:124
+msgid "It is not allow less than 1 and more than 5 emails to be entered."
+msgstr ""
+
+#: includes/functions.php:121
+msgid ""
+"It should allow a value between 1 and 5 inclusive. Default to 5 on install."
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: views/layout.php:6 app/Integrations/WpMailSmtp.php:10
+#: app/Hooks/Handlers/MenuHandler.php:9 app/Hooks/Handlers/MenuHandler.php:10
+msgid "Basic Plugin"
+msgstr ""
+
+#: includes/functions.php:110
+msgid "Pageviews"
+msgstr ""
+
+#: includes/functions.php:115
+msgid "Records per page"
+msgstr ""
+
+#: includes/functions.php:103
+msgid "Remove"
+msgstr ""
+
+#: includes/functions.php:102
+msgid "Save Settings"
+msgstr ""
+
+#: includes/functions.php:105 app/Hooks/Handlers/MenuHandler.php:30
+#: app/Hooks/Handlers/MenuHandler.php:31 app/Hooks/Handlers/MenuHandler.php:94
+msgid "Settings"
+msgstr ""
+
+#: includes/functions.php:100 app/Hooks/Handlers/MenuHandler.php:84
+msgid "Table"
+msgstr ""
+
+#: includes/functions.php:119
+msgid "Table data controlling settings"
+msgstr ""
+
+#: includes/functions.php:118
+msgid "Table data fetched from API and formatted according to global settings"
+msgstr ""
+
+#: includes/functions.php:117
+msgid "This graph is generated using api graph data and chartjs package"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a test plugin developed by Nihar Ranjan Das"
+msgstr ""
+
+#: includes/functions.php:109
+msgid "Title"
+msgstr ""
+
+#: includes/functions.php:106
+msgid "Top Pages"
+msgstr ""
+
+#: includes/functions.php:112
+msgid "Unix timestamp"
+msgstr ""
+
+#: includes/functions.php:108
+msgid "Url"
+msgstr ""

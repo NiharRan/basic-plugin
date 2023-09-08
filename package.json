@@ -1,0 +1,31 @@
+{
+  "name": "basic-plugin",
+  "version": "1.0.0",
+  "description": "This is simple test project",
+  "author": "Nihar Ranjan Das",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "lint:php": "vendor/bin/phpcs",
+    "lint:php:fix": "vendor/bin/phpcbf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "resources/js/app.js",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "vue": "^2.7.14",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^9.17.0",
+    "laravel-mix": "^6.0.49",
+    "sass": "^1.66.1",
+    "sass-loader": "^12.6.0",
+    "vue-loader": "^15.10.2",
+    "vue-template-compiler": "^2.7.14"
+  },
+  "license": "ISC"
+}
